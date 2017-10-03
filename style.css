@@ -12,7 +12,7 @@ footer {
 }
 
 footer img {
-    padding: 2em 1em 1em 1em;
+    width: 100%;
 }
 
 hr {
@@ -39,9 +39,7 @@ p {
 #wrapper {
     background-color: #F2F2F2;
     border: 5px solid #F25C05;
-    margin-bottom: 10%;
-    margin-left: 28%;
-    margin-right: 28%;
-    margin-top: 1%;
+    margin: 0 auto;
     padding: 1em 2em 1em 2em;
+    max-width: 600px;
 }
