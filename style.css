@@ -1,0 +1,47 @@
+a {
+    color: #F25D5F;
+}
+
+body {
+    background-color: #B3DFD8;
+    letter-spacing: .5px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer img {
+    padding: 2em 1em 1em 1em;
+}
+
+hr {
+    border-top: 2px solid #F25D5F;
+}
+
+h4 {
+    margin: 0px;
+}
+
+h1, h2, h3 {
+    font-family: 'Droid Sans', sans-serif;
+}
+
+p {
+    line-height: 24px;
+}
+
+.header {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#wrapper {
+    background-color: #F2F2F2;
+    border: 5px solid #F25C05;
+    margin-bottom: 10%;
+    margin-left: 28%;
+    margin-right: 28%;
+    margin-top: 1%;
+    padding: 1em 2em 1em 2em;
+}
